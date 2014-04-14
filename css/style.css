@@ -164,12 +164,11 @@ header footer ul {
 }
 
 header footer li {
-	float: left;
+  float: right;
 	margin-left: 3px;
 }
 
 header footer li:after {
-	content: " |";
 }
 
 header footer li:last-child:after {
